@@ -1,1 +1,9 @@
 # ludumdare
+
+List of ludum dare games (mostly failed)
+
+*  https://github.com/daniboygg/ludumdare-57 (fail)
+*  https://github.com/daniboygg/ludumdare-56 (fail)
+*  https://github.com/daniboygg/ludumdare-55 (fail)
+*  https://github.com/daniboygg/ludumdare-54 (finished)
+*  https://github.com/daniboygg/ludumdare-53 (finished)
