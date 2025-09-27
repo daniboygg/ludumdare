@@ -1,5 +1,8 @@
 # ludumdare
 
+https://ldjam.com/users/daniboygg/
+https://daniboygg.itch.io/
+
 List of ludum dare games (mostly failed)
 
 *  https://github.com/daniboygg/ludumdare-57 (fail)
