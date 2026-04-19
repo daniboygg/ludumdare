@@ -5,7 +5,6 @@ https://daniboygg.itch.io/
 
 List of ludum dare games (mostly failed)
 
-*  https://github.com/daniboygg/ludumdare-59 (in progress)
 *  https://github.com/daniboygg/ludumdare-58 (finished)
 *  https://github.com/daniboygg/ludumdare-57 (fail)
 *  https://github.com/daniboygg/ludumdare-56 (fail)
